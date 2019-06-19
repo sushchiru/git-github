@@ -1,8 +1,8 @@
 environment division  #dev1
 {
     identification division.    #dev1
-    {
-         print this as sushma("hai");
+{
+         print this as sushma("hai" from #dev2);   
 	 }
 
 }	#dev1 
